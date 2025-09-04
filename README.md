@@ -69,7 +69,7 @@ Below are some of the projects and labs I have worked on:
 ### 2. Linux Server Setup
 - **Description:** Built a Linux server with user management, web hosting, and secure SSH access.  
 - **Technologies Used:** Ubuntu, Apache, Bash Scripting  
-- **Links:** [GitHub Repository](https://github.com/YourUsername/LinuxServerSetup)
+- **Links:** [GitHub Repository](https://github.com/AusrinKingPro/LinuxServerSetup)
 
 ### 3. Python Automation Scripts
 - **Description:** Scripts to automate repetitive tasks like file management, system monitoring, and network checks.  
