@@ -178,8 +178,8 @@ Below are some of the projects and labs I have worked on:
 
 ## Resume & Contact
 
-- **Email:** your.email@example.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- **Email:** AustinKingPro@gmail.com 
+- **LinkedIn:** [linkedin.com/in/AustinKingPro](https://linkedin.com/in/AustinKingPro)  
 - **Resume:** [Download PDF](https://github.com/YourUsername/Portfolio/blob/main/Resume.pdf)  
 
 Feel free to explore my projects and labs. I’m always open to learning, collaborating, and taking on new IT challenges!
