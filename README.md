@@ -150,17 +150,17 @@ Below are some of the projects and labs I have worked on:
 ### 1. Home Network Lab
 - **Description:** Designed and configured a home network environment using Cisco Packet Tracer and automated setup scripts with Python.  
 - **Technologies Used:** Cisco Packet Tracer, Python  
-- **Links:** [GitHub Repository](https://github.com/YourUsername/HomeNetworkLab) | [Lab Screenshots & Files](https://drive.google.com/xyz)
+- **Links:** [GitHub Repository](https://github.com/AustinKingPro/HomeNetworkLab) | [Lab Screenshots & Files](https://drive.google.com/xyz)
 
 ### 2. Linux Server Setup
 - **Description:** Built a Linux server with user management, web hosting, and secure SSH access.  
 - **Technologies Used:** Ubuntu, Apache, Bash Scripting  
-- **Links:** [GitHub Repository](https://github.com/YourUsername/LinuxServerSetup)
+- **Links:** [GitHub Repository](https://github.com/AustinKingPro/LinuxServerSetup)
 
 ### 3. Python Automation Scripts
 - **Description:** Scripts to automate repetitive tasks like file management, system monitoring, and network checks.  
 - **Technologies Used:** Python, PowerShell  
-- **Links:** [GitHub Repository](https://github.com/YourUsername/PythonScripts)
+- **Links:** [GitHub Repository](https://github.com/AustinKingPro/PythonScripts)
 
 *(Add more projects or labs here as you complete them)*
 
