@@ -10,7 +10,7 @@ I am an aspiring IT professional with experience in networking, system administr
 
 ---
 
-Skills
+# Skills
 
 Networking & Systems:
 LAN/WAN configuration, routing, and switching
