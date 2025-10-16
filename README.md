@@ -53,8 +53,10 @@ Description: Designed and configured a home network environment using Cisco Pack
 
 Technologies Used: Cisco Packet Tracer, Python
 
-Links: GitHub Repository
- | Screenshots & Files
+Links: GitHub Repository [Click Here](https://example.com)  
+Step-by-Step (Pictures + Video)
+I recorded a full walkthrough with commentary — screenshots and the video are in this Google Drive folder:
+[Step-by-Step: Screenshots & Video](https://drive.google.com/drive/folders/ABCDEFGHIJKL)
 
 # 2. Linux Server Setup
 
@@ -62,7 +64,10 @@ Description: Built a Linux server with user management, web hosting, and secure 
 
 Technologies Used: Ubuntu, Apache, Bash Scripting
 
-Links: GitHub Repository
+Links: GitHub Repository [Click Here](https://example.com)  
+Step-by-Step (Pictures + Video)
+I recorded a full walkthrough with commentary — screenshots and the video are in this Google Drive folder:
+[Step-by-Step: Screenshots & Video](https://drive.google.com/drive/folders/ABCDEFGHIJKL)
 
 # 3. Python Automation Scripts
 
@@ -70,9 +75,10 @@ Description: Scripts to automate repetitive tasks such as file management, syste
 
 Technologies Used: Python, PowerShell
 
-Links: GitHub Repository
-
-(Additional projects or labs can be added as completed)
+Links: GitHub Repository [Click Here](https://example.com)  
+Step-by-Step (Pictures + Video)
+I recorded a full walkthrough with commentary — screenshots and the video are in this Google Drive folder:
+[Step-by-Step: Screenshots & Video](https://drive.google.com/drive/folders/ABCDEFGHIJKL)
 
 ## Certifications & Education
 
