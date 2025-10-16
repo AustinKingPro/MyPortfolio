@@ -1,6 +1,6 @@
 # My IT Portfolio
 
-Welcome to my IT Portfolio! This repository showcases my hands-on projects, lab work, and technical skills in this field. The goal of ,y portfolio is to demonstrate my practical knowledge, problem-solving abilities, and dedication to continuous learning.
+Welcome to my IT Portfolio! This repository showcases my hands-on projects, lab work, and technical skills in this field. The goal of my portfolio is to demonstrate my practical knowledge, problem-solving abilities, and dedication to continuous learning.
 
 ---
 
@@ -45,9 +45,9 @@ Docker and container management
 Ansible for automation
 Troubleshooting tools and monitoring software
 
-## Projects & Labs
+# Projects & Labs
 
-# 1. Home Network Lab
+## 1. Home Network Lab
 
 Description: Designed and configured a home network environment using Cisco Packet Tracer and automated setup scripts with Python.
 
